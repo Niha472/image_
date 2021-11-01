@@ -1,0 +1,15 @@
+body{
+    background-color: #F79AD3;   
+}
+.name_of_objects{
+color: #C86FC9;
+}
+#camera,#result{
+    border: 2px dashed #8E518D;
+    width:350px ;
+    height: 300px; ;
+}
+#go, #move{
+    color: #EA1744;
+    background-color:#CC4BC2 ;
+}
